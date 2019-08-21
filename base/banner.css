@@ -1,0 +1,7 @@
+.banner{
+    background: var(--rts-farver);
+    color: var(--banner_tekst--farve);
+    font-size: 1.6em;
+    text-align: center;
+    padding: 100px 0 160px;
+}

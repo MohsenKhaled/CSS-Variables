@@ -1,0 +1,4 @@
+.content a{
+    color: var(--link-farver);
+    font-size: 1.2em;
+}
